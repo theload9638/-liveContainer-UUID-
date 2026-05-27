@@ -2,8 +2,8 @@
 
 sideStore 配对文件问题解决
 
-使用前提：手机和电脑使用数据线连接
-可选：sidestore先退出登录
+使用前提：手机和电脑使用数据线连接<br/>
+可选：sidestore先退出登录<br/>
 
 1.安装 https://github.com/jkcoxson/idevice 最新版本<br/><br/>
 2.命令行调用 idevice-tools.exe 选择pair<br/><br/>
